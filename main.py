@@ -111,8 +111,3 @@ falso: bool = False
 
 print(0 == False)
 print(1 == True)
-
-print(None and 'Hola')
-
-
-
