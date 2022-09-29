@@ -1,6 +1,6 @@
 # Curso de [Python](https://docs.python.org/3/tutorial/index.html) _por @Christhoval_
 
-## 1. Introducciòn a Python
+## 1. Introduciòn a Python
 - ¿Qué es Python?
 - ¿Por qué aprender Python?
 - Instalar Python 3
@@ -10,9 +10,8 @@
 ## 2. Tipo de datos
 - Integer(int, 0o - octal, 0x - hexa, 0b - bin)
 - Floating-Point Numbers
-- Complex Numbers (m+nj)
 - [Strings](https://realpython.com/python-strings/), Triple-Quoted Strings
-- Boolean, Truthiness
+- Boolean
 
 ## 3. Variables y [Operadores](https://realpython.com/python-operators-expressions/)
 - Assignment
@@ -31,13 +30,14 @@
 ## 9. Enums y rangos
 ## 10. Clases y objetos
 ## 11. Nulos y errores
+## 12. Testing
 
-## 12. Programacioón Orientada a Objetos
-## 13. Programación Funcional
-## 14. SQLite
-## 15. Microframework Flask
-## 16. Aplicaciones Web con Flask
-## 17. Microframework fastAPI
-## 18. Aplicaciones Web con fastAPI
-## 19. Framework Django
-## 20. Dessarrollo Web Backend con Django
+## 13. Programacioón Orientada a Objetos
+## 14. Programación Funcional
+## 15. SQLite
+## 16. Microframework Flask
+## 17. Aplicaciones Web con Flask
+## 18. Microframework fastAPI
+## 19. Aplicaciones Web con fastAPI
+## 20. Framework Django
+## 21. Dessarrollo Web Backend con Django
